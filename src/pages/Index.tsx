@@ -58,7 +58,7 @@ const Index = () => {
               <div className="p-8 md:p-12 space-y-6">
                 <p className="text-lg text-foreground leading-relaxed">
                   Sou criadora de conteúdo desde 2017, iniciando no YouTube com 42 mil inscritos e 
-                  atualmente no Instagram com mais de <span className="font-semibold text-wine">740 mil seguidores</span> — 
+                  atualmente no Instagram com mais de <span className="font-semibold text-wine">8 mil seguidores</span> — 
                   todos 100% orgânicos. Produzo conteúdo voltado para moda, lifestyle e parcerias autênticas.
                 </p>
                 
@@ -91,7 +91,7 @@ const Index = () => {
                   </div>
                   <div className="text-center">
                     <p className="text-2xl font-bold text-wine">🎂</p>
-                    <p className="text-sm font-semibold text-foreground mt-1">22 anos</p>
+                    <p className="text-sm font-semibold text-foreground mt-1">23 anos</p>
                   </div>
                   <div className="text-center">
                     <p className="text-2xl font-bold text-wine">📸</p>
@@ -120,7 +120,7 @@ const Index = () => {
               <p className="text-lg font-semibold text-foreground">Visualizações Reels</p>
             </div>
             <div className="bg-white rounded-xl shadow-lg p-8 text-center hover:scale-105 transition-transform">
-              <p className="text-5xl font-bold text-burnt-orange mb-2">330.000+</p>
+              <p className="text-5xl font-bold text-burnt-orange mb-2">600.000+</p>
               <p className="text-lg font-semibold text-foreground">Visitas no Perfil (30 dias)</p>
             </div>
           </div>
